@@ -1,0 +1,32 @@
+class AppConst{
+ static const List<Map<String,String>> listOfCategory=[
+    {
+      'categoryName':'General',
+      'imageUrl':'assets/images/General.jpg'
+    },
+    {
+      'categoryName':'Entertainment',
+      'imageUrl':'assets/images/Netflix.jpg'
+    },
+    {
+      'categoryName':'Business',
+      'imageUrl':'assets/images/business.jpg'
+    },
+    {
+      'categoryName':'Health',
+      'imageUrl':'assets/images/Health.png'
+    },
+    {
+      'categoryName':'Science',
+      'imageUrl':'assets/images/Science.jpg'
+    },
+    {
+      'categoryName':'Sports',
+      'imageUrl':'assets/images/Sports.jpg'
+    },
+    {
+      'categoryName':'Technology',
+      'imageUrl':'assets/images/Technology.jpg'
+    }
+  ];
+}
